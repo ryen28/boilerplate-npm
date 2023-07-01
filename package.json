@@ -3,13 +3,13 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Ringo Yen",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://idontknow/todo.git",
+		"author": "Ringo Yen"
 	}
 }
